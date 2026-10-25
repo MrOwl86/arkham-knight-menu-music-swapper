@@ -32,7 +32,7 @@ Requires [Go](https://go.dev/) 1.24+.
 
 ```bash
 cd src
-GOOS=windows GOARCH=amd64 go build -ldflags="-s -w" -o ArkhamKnightMenuMusicSwapper_v2.exe .
+GOOS=windows GOARCH=amd64 go build -ldflags="-s -w" -o ArkhamKnightMenuMusicSwapper.exe .
 ```
 
 The audio decode/encode pipeline (Wwise/Vorbis codec handling) is implemented from scratch in pure Go — no external decoder binaries are embedded or launched at runtime.
