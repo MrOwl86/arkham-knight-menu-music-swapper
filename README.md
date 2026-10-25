@@ -4,7 +4,7 @@ A small Windows tool that lets you replace the music that plays on the Batman: A
 
 ## Download
 
-Grab the latest build from the **[Releases](../../releases)** page: `ArkhamKnightMenuMusicSwapper_v2.exe`.
+Grab the latest build from the **[Releases](../../releases)** page: `ArkhamKnightMenuMusicSwapper.exe`.
 
 No installer, no admin rights needed. Just run the `.exe`.
 
