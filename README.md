@@ -20,7 +20,7 @@ No installer, no admin rights needed. Just run the `.exe`.
 
 ## How to use
 
-1. Download and run `ArkhamKnightMenuMusicSwapper_v2.exe`.
+1. Download and run `ArkhamKnightMenuMusicSwapper.exe`.
 2. A browser tab opens automatically with the tool's interface.
 3. Point it at your Batman: Arkham Knight installation folder if it isn't auto-detected.
 4. Pick your audio file and apply it.
